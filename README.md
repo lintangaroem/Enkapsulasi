@@ -1,5 +1,5 @@
 # Enkapsulasi
-
+code in folder src
 # Latihan1
 ![latihan 1](https://user-images.githubusercontent.com/76156474/111895302-349c4d80-8a44-11eb-8e1c-b08b8575e566.png)
 
